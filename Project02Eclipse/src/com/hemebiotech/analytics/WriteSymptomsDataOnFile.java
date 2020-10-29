@@ -4,6 +4,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Map;
 
+/**
+ * Class to write result on file
+ *
+ */
 public class WriteSymptomsDataOnFile {
 		/**
 		* Write the count of each symptom in the file "result.out"

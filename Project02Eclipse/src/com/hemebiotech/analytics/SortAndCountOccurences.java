@@ -4,7 +4,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-
+/**
+ * Class to sort and count symptoms
+ * 
+ */
 public class SortAndCountOccurences {
 	/**
 	 * Sort and count occurences of each symptom with iteration
